@@ -3,7 +3,7 @@ title           : blockchain_client.py
 description     : A blockchain client implemenation, with the following features
                   - Wallets generation using Public/Private key encryption (based on RSA algorithm)
                   - Generation of transactions with RSA encryption      
-author          : Balya Rochmadi
+author          : Qqubit
 date_created    : 20180212
 date_modified   : 20180309
 version         : 0.3
