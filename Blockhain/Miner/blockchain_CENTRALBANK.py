@@ -1,7 +1,7 @@
 '''
 title           : blockchain.py
 description     : A blockchain implemenation
-author          : Balya Rochmadi
+author          : Qqubit
 date_created    : 20180212
 date_modified   : 20180309
 version         : 0.5
